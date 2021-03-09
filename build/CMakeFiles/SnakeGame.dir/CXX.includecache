@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/controller.cpp
+controller.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/controller.h
+iostream
+-
+SDL2/SDL.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/SDL2/SDL.h
+snake.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/snake.h
+
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/controller.h
+snake.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/snake.h
+
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/game.cpp
+game.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/game.h
+iostream
+-
+SDL2/SDL.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/SDL2/SDL.h
+
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/game.h
+random
+-
+SDL2/SDL.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/SDL2/SDL.h
+controller.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/controller.h
+renderer.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/renderer.h
+snake.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/snake.h
+
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/main.cpp
+iostream
+-
+controller.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/controller.h
+game.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/game.h
+renderer.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/renderer.h
+
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/renderer.cpp
+renderer.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/renderer.h
+iostream
+-
+string
+-
+
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/renderer.h
+vector
+-
+SDL2/SDL.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/SDL2/SDL.h
+snake.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/snake.h
+
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/snake.cpp
+snake.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/snake.h
+cmath
+-
+iostream
+-
+
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/snake.h
+vector
+-
+SDL2/SDL.h
+C:/C++ Development/Test/CppND-Capstone-Snake-Game/src/SDL2/SDL.h
+

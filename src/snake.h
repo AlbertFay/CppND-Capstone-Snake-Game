@@ -2,8 +2,8 @@
 #define SNAKE_H
 
 #include <vector>
-#include "SDL.h"
-
+#include "SDL2/SDL.h"
+//#include ""C:\Program Files\mingw-w64\mingw64\include
 class Snake {
  public:
   enum class Direction { kUp, kDown, kLeft, kRight };
