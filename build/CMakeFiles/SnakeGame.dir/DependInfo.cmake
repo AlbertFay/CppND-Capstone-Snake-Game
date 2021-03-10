@@ -12,9 +12,14 @@ set(CMAKE_DEPENDS_CHECK_CXX
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "SDL_MAIN_HANDLED"
+  )
+
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/opt/local/x86_64-w64-mingw32/include/SDL2"
+  "C:/C++ Development/Libs/SDL2-2.0.14/x86_64-w64-mingw32/include"
   "../src"
   )
 

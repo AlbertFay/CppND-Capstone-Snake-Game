@@ -162,6 +162,8 @@ SnakeGame.exe: CMakeFiles/SnakeGame.dir/src/controller.cpp.obj
 SnakeGame.exe: CMakeFiles/SnakeGame.dir/src/renderer.cpp.obj
 SnakeGame.exe: CMakeFiles/SnakeGame.dir/src/snake.cpp.obj
 SnakeGame.exe: CMakeFiles/SnakeGame.dir/build.make
+SnakeGame.exe: C:/C++\ Development/Libs/SDL2-2.0.14/x86_64-w64-mingw32/lib/libSDL2.dll.a
+SnakeGame.exe: C:/C++\ Development/Libs/SDL2-2.0.14/x86_64-w64-mingw32/lib/libSDL2main.a
 SnakeGame.exe: CMakeFiles/SnakeGame.dir/linklibs.rsp
 SnakeGame.exe: CMakeFiles/SnakeGame.dir/objects1.rsp
 SnakeGame.exe: CMakeFiles/SnakeGame.dir/link.txt
